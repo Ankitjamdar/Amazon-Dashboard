@@ -37,3 +37,6 @@ KPIs:
 
 * Tableau – to build the interactive visuals
 * Excel – for data cleaning and transformation
+
+6. Screenshot:
+Link: https://github.com/Ankitjamdar/Amazon-Dashboard/blob/main/Snapshot%20of%20Amazon%20Dashboard.png
