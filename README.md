@@ -39,5 +39,4 @@ KPIs:
 * Excel – for data cleaning and transformation
 
 6. Screenshot:
-Link: https://github.com/Ankitjamdar/Amazon-Dashboard/blob/main/Snapshot%20of%20Amazon%20Dashboard.png
 <img width="800" alt="Snapshot of Amazon Dashboard" src="https://github.com/user-attachments/assets/192df823-2bef-4bc7-9869-034ed079cbbb" />
